@@ -1,0 +1,8 @@
+# include<iostream>
+using   namespace std;
+int main(int argc, char const *argv[])
+{
+    /* code */
+    cout<<"hello c++ for mac"<<endl;
+    return 0;
+}
